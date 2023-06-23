@@ -2,7 +2,7 @@
 -- veri tiplerine, nullable olma durumuna, default değerine ve tablolar arası foreign key kullanımına dikkat.
 
 -- Veritabanı oluşturma
-CREATE DATABASE eticaret;
+CREATE DATABASE hepsiorada;
 
 -- "hepsiorada" veritabanını kullanma
 \c hepsiorada;
